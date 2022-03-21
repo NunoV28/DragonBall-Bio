@@ -1,0 +1,33 @@
+
+body{
+background-color: grey;
+}
+
+nav {
+background-color: orange;
+color:white;
+text-align:center;
+padding:auto;
+border: solid 2px white;
+}
+
+hr {
+border-color:white;
+}
+
+main {
+background-color: orange;
+color:white;
+text-align:center;
+padding:auto;
+border: solid 2px white;
+}
+
+footer {
+background-color: orange;
+color:white;
+text-align:center;
+padding:auto;
+
+border: solid 2px white;
+}
